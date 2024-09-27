@@ -1,5 +1,5 @@
 # Shroom Slayer Android Game
-Here's a demonstration of my app: [Shroom Slayer Demo]([https://youtu.be/beTGkTD0YVs](https://www.youtube.com/watch?v=vT5giEAs76I&feature=youtu.be))
+Here's a demonstration of my app: [Shroom Slayer Demo](https://www.youtube.com/watch?v=vT5giEAs76I&feature=youtu.be)
 
 ## Overview
 Shroom Slayer is an Android game developed during the Fall of 2023, featuring three stages with four different types of enemies and three different types of power-ups. The game includes user authentication, player settings, and preferences saved in Firestore Realtime Databases. It also has a dynamic leaderboard fetching the top five scores from the Firebase Firestore backend.
